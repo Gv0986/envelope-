@@ -3,7 +3,7 @@ body {
   align-items: center;
   justify-content: center;
   height: 100vh;
-  background: #000000;
+  background: rgb(40, 40, 43);
 }
 .envelope {
   position: relative;
