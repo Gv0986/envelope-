@@ -3,8 +3,9 @@ body {
   align-items: center;
   justify-content: center;
   height: 100vh;
-  background: rgb(40, 40, 43);
-}
+  background: rgb(38, 37, 37);
+
+  
 .envelope {
   position: relative;
   cursor: pointer;
