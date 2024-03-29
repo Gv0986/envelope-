@@ -3,7 +3,7 @@ body {
   align-items: center;
   justify-content: center;
   height: 100vh;
-  background: #000000;
+  background: #b784db;
 }
 .envelope {
   position: relative;
@@ -78,6 +78,7 @@ body {
 }
 .text1 {
   position: absolute;
+  font-size: 8px;
   color: white;
   font-family: sans-serif;
   top: -30%;
